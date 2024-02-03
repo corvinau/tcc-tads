@@ -100,3 +100,7 @@ Para mais informações sobre o Django basta acessar a documentação oficial e 
 
 
 **Devs:** Arthur Vianna Landeo ([ArthurVianna](https://github.com/ArthurVianna)), Cassiano Ricardo Filho ([Cassianosricardo](https://github.com/Cassianosricardo)), Tatiane Portela Medeiros ([corvinau](https://github.com/corvinau)).
+
+---
+
+Obs.: Código importado do repositório: ([tcc-django](https://github.com/ArthurVianna/tcc-django))
